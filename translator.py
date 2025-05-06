@@ -1,5 +1,3 @@
-# translator.py
-
 from transformers import MarianMTModel, MarianTokenizer
 
 class EnglishToHindiTranslator:
