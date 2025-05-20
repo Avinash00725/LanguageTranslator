@@ -11,3 +11,7 @@ This project translates English text to Hindi using a Transformer-based Neural M
 ## Model
 Uses MarianMT model trained on English-Hindi pairs from Helsinki-NLP.
 
+## Example:
+![image](https://github.com/user-attachments/assets/50a278d0-afd1-4f08-b47d-4348624b8b0a)
+
+
